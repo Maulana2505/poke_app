@@ -1,0 +1,19 @@
+{
+    "evolves_to": [
+        {
+            "evolves_to": [],
+            "is_baby": false,
+            "species": {
+                "name": "blastoise",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/9/"
+                
+            }
+        }
+    ],
+    "is_baby": false,
+    "species": {
+        "name": "wartortle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/8/"
+        
+    }
+}
